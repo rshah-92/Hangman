@@ -13,12 +13,12 @@ Welcome to the Hangman Game repository! This simple Hangman game allows players 
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/your-username/hangman-game.git
+    git clone https://github.com/rshah-92/Hangman.git
     ```
 
 2. Navigate to the project directory.
     ```bash
-    cd hangman-game
+    cd Hangman
     ```
 
 3. Run the game.
@@ -30,7 +30,11 @@ Welcome to the Hangman Game repository! This simple Hangman game allows players 
 
 ## Screenshots
 
-Include screenshots or GIFs showcasing your game in action.
+![Gameplay Screenshot 1](screenshots/gameplay_1.png)
+*Caption for the first screenshot.*
+
+![Gameplay Screenshot 2](screenshots/gameplay_2.png)
+*Caption for the second screenshot.*
 
 ## Contributing
 
