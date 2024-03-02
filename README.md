@@ -28,14 +28,6 @@ Welcome to the Hangman Game repository! This simple Hangman game allows players 
 
 4. Enjoy playing Hangman!
 
-## Screenshots
-
-![Gameplay Screenshot 1](screenshots/gameplay_1.png)
-*Caption for the first screenshot.*
-
-![Gameplay Screenshot 2](screenshots/gameplay_2.png)
-*Caption for the second screenshot.*
-
 ## Contributing
 
 If you'd like to contribute to the project, follow these steps:
@@ -54,15 +46,6 @@ If you'd like to contribute to the project, follow these steps:
     git push origin feature/new-feature
     ```
 5. Open a Pull Request.
-
-## License
-
-This Hangman game is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- [List any libraries or resources you used]
-- [Credit to any third-party assets or code snippets used]
 
 Feel free to raise any issues or suggest improvements!
 
