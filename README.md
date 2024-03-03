@@ -50,3 +50,8 @@ If you'd like to contribute to the project, follow these steps:
 Feel free to raise any issues or suggest improvements!
 
 Happy Hangman gaming!
+## Authors
+
+- Rudra Shah - [My GitHub Profile](https://github.com/rshah-92)
+
+Enjoy playing the Higher or Lower Game! If you have any questions or suggestions, feel free to reach out.
