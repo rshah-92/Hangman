@@ -1,4 +1,4 @@
-# Hangman Game
+# Hangman Game 
 
 Welcome to the Hangman Game repository! This simple Hangman game allows players to guess a word letter by letter until they either solve the word or run out of attempts.
 
